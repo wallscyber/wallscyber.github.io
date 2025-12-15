@@ -1,0 +1,24 @@
+:root {
+    /* Color Palette - Dark/Cyber Theme */
+    --bg-primary: #0d1117;      /* Deep dark background */
+    --bg-secondary: #161b22;    /* Slightly lighter for cards/sections */
+    --bg-tertiary: #21262d;     /* Borders/Inputs */
+    
+    --text-primary: #c9d1d9;    /* Main text */
+    --text-secondary: #8b949e;  /* Muted text */
+    --text-inverse: #ffffff;    /* Headings/Highlights */
+
+    --accent-blue: #58a6ff;     /* Tech Blue */
+    --accent-blue-dim: rgba(88, 166, 255, 0.15);
+    --accent-glow: 0 0 15px rgba(88, 166, 255, 0.3);
+
+    /* Typography */
+    --font-stack: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    --font-mono: 'Consolas', 'Monaco', monospace;
+
+    /* Spacing & Layout */
+    --container-width: 1100px;
+    --header-height: 70px;
+    --radius-md: 8px;
+    --radius-lg: 12px;
+}
